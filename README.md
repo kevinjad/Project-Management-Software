@@ -1,5 +1,5 @@
 # Project-Management-Software
-Find the live version of this project @ http://http://3.130.241.85:8080/ <br>
+Find the live version of this project @ http://3.130.241.85:8080/ <br>
 Backend - Spring Boot, Postgres server.<br>
 Data transfer from frontend to backend - Thymeleaf.<br>
 
