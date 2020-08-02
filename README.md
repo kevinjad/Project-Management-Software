@@ -4,4 +4,4 @@ Backend - Spring Boot, Postgres server.<br>
 Data transfer from frontend to backend - Thymeleaf.<br>
 
 # Snapshots
-<img src="proIo.PNG" width="680" height = "240">
+<img src="proIo.PNG" width="680" height = "420">
